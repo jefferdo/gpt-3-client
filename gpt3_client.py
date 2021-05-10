@@ -14,7 +14,7 @@ from datetime import datetime
 logger = logging.getLogger("GPT3Client")
 logger.setLevel(logging.INFO)
 
-os.environ['OPENAI_API_SECRET_KEY'] = "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"
+
 
 
 class GPT3Client:
